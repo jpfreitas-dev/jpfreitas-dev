@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente, estou trabalhando como **instrutor de suporte técnico na Firjan Senai**
 
-- 🌱 Estou estudando **React, Typescript e Node.js**
+- 🌱 Estou estudando **HTML, CSS e Javascript**
 
 - 📫 **joaopaulofreitasp23@gmail.com**
 
