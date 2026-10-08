@@ -56,7 +56,7 @@ Sou desenvolvedor Fullstack Júnior, focado na construção de aplicações web 
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
 </p>
 
-[![JOão Paulo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpfreitas-dev&bg_color=0d1117&color=006DFC&line=18F58A&point=006DFC&area=true&area_color=18F58A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![JOão Paulo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jpfreitas-dev&bg_color=0d1117&color=006DFC&line=18F58A&point=006DFC&area=true&area_color=18F58A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ### 
 
